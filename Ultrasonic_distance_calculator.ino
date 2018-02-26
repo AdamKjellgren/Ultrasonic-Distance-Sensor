@@ -1,4 +1,8 @@
-//Inspired by www.HowToMechatronics.com
+/* Recourses used for the code and circuit
+ *  www.HowToMechatronics.com
+ *  https://www.arduino.cc/en/tutorial/pushbutton
+ *  https://create.arduino.cc/projecthub/circuito-io-team/piezo-tunes-d4a011?ref=search&ref_id=piezo&offset=2
+*/ 
 
 //Declare pin numbers
 const int buttonPin = 2;        // Button to turn warning on/off
